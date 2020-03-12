@@ -3,6 +3,10 @@ using namespace std;
 
 int main()
 {
-	cout<<"hello worlds";
+
+	for(int x = 3; x<100;x++)
+	{
+		cout<<"hello worlds";
+	}
 		
 }
